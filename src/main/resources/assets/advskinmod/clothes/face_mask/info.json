@@ -1,0 +1,20 @@
+{
+	"variations": [
+		{
+			"name": "Pumpkin",
+			"texture": "clothes/face_mask/variant0.png",
+		},
+		{
+			"name": "Skeleton",
+			"texture": "clothes/face_mask/variant1.png",
+		},
+		{
+			"name": "Dallas",
+			"texture": "clothes/face_mask/variant2.png",
+		},
+		{
+			"name": "Jason",
+			"texture": "clothes/face_mask/variant3.png",
+		}
+	]
+}

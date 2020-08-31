@@ -1,0 +1,30 @@
+{
+	"male_damage": {
+	    "category": "player",
+	    "sounds": [
+	      {
+	        "name": "advskinmod:male_damage",
+	        "stream": true
+	      }
+	    ]
+	},
+	"female_damage": {
+	    "category": "player",
+	    "sounds": [
+	      {
+	        "name": "advskinmod:female_damage",
+	        "stream": true
+	      }
+	    ]
+	},
+	"female_damage2": {
+	    "category": "player",
+	    "sounds": [
+	      {
+	        "name": "advskinmod:female_damage2",
+	        "stream": true
+	      }
+	    ]
+	}
+
+}

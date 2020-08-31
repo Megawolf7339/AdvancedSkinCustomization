@@ -1,0 +1,17 @@
+{
+	"variations": {
+		"farmer": [
+			{"female": [
+				"villager/farm1.png",
+				"villager/girl1.png",
+			]}
+		],
+		"none": [
+			{"female": [
+				"villager/girl1.png",
+			]}
+		],
+
+		"default": "villager/girl1.png"
+	},
+}

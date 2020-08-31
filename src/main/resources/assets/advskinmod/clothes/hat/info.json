@@ -1,0 +1,12 @@
+{
+	"variations": [
+		{
+			"name": "Farmer",
+			"texture": "clothes/hat/variant0.png",
+		},
+		{
+			"name": "Santa",
+			"texture": "clothes/hat/variant1.png",
+		},
+	],
+}

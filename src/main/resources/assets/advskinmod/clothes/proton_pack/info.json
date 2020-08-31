@@ -1,0 +1,8 @@
+{
+	"variations": [
+		{
+			"name": "Default",
+			"texture": "clothes/backpack/variant0.png",
+		}
+	],
+}

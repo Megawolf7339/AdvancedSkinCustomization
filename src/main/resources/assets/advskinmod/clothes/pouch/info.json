@@ -1,0 +1,12 @@
+{
+	"variations": [
+		{
+			"name": "Default",
+			"texture": "clothes/hat/variant0.png"
+		},
+		{
+			"name": "Alternate",
+			"texture": "clothes/hat/variant1.png"
+		}
+	]
+}

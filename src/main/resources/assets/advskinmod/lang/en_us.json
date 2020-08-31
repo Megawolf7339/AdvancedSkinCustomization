@@ -1,0 +1,12 @@
+{
+	"advskinmod.mod.name": "Advanced Skin Customization",
+	"advskinmod.key.gui": "Open Customization Menu",
+	"advskinmod.key.firstperson": "Toggle First Person Perspective",
+	"key.categories.advskinmod": "Advanced Skin Customization",
+	"advskinmod.server": "Sync Servers",
+	"advskinmod.server.online": "Online",
+	"advskinmod.server.offline": "Temporarily Offline",
+	"advskinmod.cat.player": "Player",
+	"advskinmod.cat.app": "Appearance",
+	"advskinmod.cat.acc": "Accessory"
+}

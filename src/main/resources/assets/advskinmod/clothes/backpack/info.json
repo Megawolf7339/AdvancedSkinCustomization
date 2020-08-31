@@ -1,0 +1,16 @@
+{
+	"variations": [
+		{
+			"name": "Black",
+			"texture": "clothes/backpack/variant0.png",
+		},
+		{
+			"name": "Blue",
+			"texture": "clothes/backpack/variant1.png",
+		},
+		{
+			"name": "Orange",
+			"texture": "clothes/backpack/variant2.png",
+		}
+	],
+}
