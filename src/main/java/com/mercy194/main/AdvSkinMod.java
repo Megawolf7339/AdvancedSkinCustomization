@@ -26,7 +26,7 @@ public class AdvSkinMod {
 	private static final String SYNC_URL = "http://advmcskins.tk:25463";
 	private static final String FALLBACK_SYNC_URL = "http://advmcskins.tk"; //unused right now
 	
-	private static boolean OFFLINE_MODE = true; //force offline mode
+	private static boolean OFFLINE_MODE = true; //force offline mode; doesn't work
 	
 	public static final String VERSION = "2.9";
 	public static final String MODID = "advskinmod";
@@ -168,8 +168,6 @@ public class AdvSkinMod {
 				response.append(inputLine);
 			}
 			in.close();
-			
-			System.out.println("THE RESPONSE@!!!!!!!" + response.toString());
 			
 			if(response.toString().contains("SUCCESS")) {
 				return true;
